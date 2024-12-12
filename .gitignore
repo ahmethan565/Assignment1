@@ -75,3 +75,7 @@ DerivedDataCache/*
 /Content/BirdOfPrey/Resources
 /Content/StarterContent
 
+/Binaries
+/DerivedDataCache
+/Saved
+/.idea
